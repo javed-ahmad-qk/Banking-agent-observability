@@ -2,7 +2,6 @@
 
 A GitHub-ready demonstration of a read-only retail banking assistant built with **Google Agent Development Kit (ADK)**. It combines multi-agent delegation, policy RAG, SQLite-backed customer data and durable ADK sessions, OpenTelemetry instrumentation, Arize AX trace export, and deterministic evaluations at span, trace, and session scope.
 
-> **Safety boundary:** This repository is a synthetic engineering demonstration, not a bank product. It cannot move money, change customer records, authenticate real customers, or provide financial advice. Every seeded customer, account, and transaction is fictional. Do not connect it to production customer data.
 
 ## What is included
 
